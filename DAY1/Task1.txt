@@ -1,0 +1,6 @@
+Task 1: Introduction to React & JSX Basics
+o	Learned what React is and why it is used.
+o	Understood JSX syntax.Learned about Components.
+o	Learned how React updates the UI.
+o	Read the official React documentation.
+o	Watched the assigned introductory video.
