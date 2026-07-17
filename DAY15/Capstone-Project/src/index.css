@@ -1,0 +1,25 @@
+@import "./styles/Login.css";
+@import "./styles/Loader.css";
+@import "./styles/global.css";
+
+@import "./styles/navbar.css";
+@import "./styles/footer.css";
+
+@import "./styles/hero.css";
+@import "./styles/categories.css";
+@import "./styles/featured.css";
+
+@import "./styles/product-card.css";
+@import "./styles/product-details.css";
+
+@import "./styles/shop.css";
+
+@import "./styles/cart.css";
+@import "./styles/wishlist.css";
+@import "./styles/checkout.css";
+
+@import "./styles/about.css";
+@import "./styles/contact.css";
+
+@import "./styles/responsive.css";
+@import "./styles/BackToTop.css"
